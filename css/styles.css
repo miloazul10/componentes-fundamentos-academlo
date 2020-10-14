@@ -1,0 +1,129 @@
+* {
+  font-family: sans-serif;
+}
+
+/* Componente Numero 1 */
+
+.header-card1 {
+  border-radius: 8px 8px 0px 0px ;
+  border-width: 1px;
+  padding: 10px;
+  background-color: rgb(208, 208, 223);
+  font-weight: bold;
+}
+
+.card {
+  border: solid 1px #DADCDF ;
+  height: 220px;
+  width: 90%;
+  max-width: 700px;
+  border-radius: 8px;
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #2E6BF6 ;
+  margin: 8px;
+  font-size: 15px;
+}
+
+.ActiveButton {
+  background: #2E6BF6;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.button2 {
+  border: solid;
+  border-radius: 8px;
+  background: #2E6BF6;
+  color: white;
+  padding: 10px 5px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: inline-block;
+}
+
+h1{
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.component1 {
+margin-left: 50px;
+}
+
+/*Componente 2 */
+
+.container {
+  display: flex
+}
+
+.header-other-cards {
+  border-radius: 8px 8px 0px 0px ;
+  border-width: 1px;
+  color: black;
+  border-color: #b5b5b52b;
+  border-bottom: solid rgb(145, 145, 151);
+  padding: 10px;
+  background-color: rgb(208, 208, 223);
+  font-weight: bold;
+}
+
+.card2 {  
+  border: solid 2px #1997F4;
+  height: 190px;
+  width: 250px;
+  border-radius: 8px;
+  margin: 50px;  
+  color: #1997F4;
+}
+
+.title {
+  padding: 10px;
+}
+
+.text-card2 { 
+  padding: 10px;
+  padding-top: 0px;
+}
+
+.card3 {  
+  border: solid 2px #a2a4a7;
+  height: 190px;
+  width: 250px;
+  border-radius: 8px;
+  margin: 50px;  
+  color: #75777a;
+}
+
+.card4 {  
+  border: solid 2px #E5503E;
+  height: 190px;
+  width: 250px;
+  border-radius: 8px;
+  margin: 50px;  
+  color: #E5503E;
+}
+
+.component2 {
+margin-left: 50px;
+}
