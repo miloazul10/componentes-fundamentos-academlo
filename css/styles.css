@@ -4,7 +4,7 @@
 
 /* Componente Numero 1 */
 
-.header-card1 {
+.header-card-1 {
   border-radius: 8px 8px 0px 0px ;
   border-width: 1px;
   padding: 10px;
@@ -28,7 +28,7 @@ a {
   font-size: 15px;
 }
 
-.ActiveButton {
+.active-button {
   background: #2E6BF6;
   color: white;
   font-size: 15px;
@@ -39,7 +39,7 @@ a {
   padding-right: 20px;
 }
 
-.button2 {
+.button-2 {
   border: solid;
   border-radius: 8px;
   background: #2E6BF6;
@@ -67,7 +67,7 @@ p {
   text-align: center;
 }
 
-.component1 {
+.component-1 {
 margin-left: 50px;
 }
 
@@ -88,7 +88,7 @@ margin-left: 50px;
   font-weight: bold;
 }
 
-.card2 {  
+.card-2 {  
   border: solid 2px #1997F4;
   height: 190px;
   width: 250px;
@@ -101,12 +101,12 @@ margin-left: 50px;
   padding: 10px;
 }
 
-.text-card2 { 
+.text-card-2 { 
   padding: 10px;
   padding-top: 0px;
 }
 
-.card3 {  
+.card-3 {  
   border: solid 2px #a2a4a7;
   height: 190px;
   width: 250px;
@@ -115,7 +115,7 @@ margin-left: 50px;
   color: #75777a;
 }
 
-.card4 {  
+.card-4 {  
   border: solid 2px #E5503E;
   height: 190px;
   width: 250px;
@@ -124,6 +124,6 @@ margin-left: 50px;
   color: #E5503E;
 }
 
-.component2 {
+.component-2 {
 margin-left: 50px;
 }
